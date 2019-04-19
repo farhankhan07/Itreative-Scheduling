@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<unistd.h>
 int main()
 {
 	int n,i,count,t,flag=0;
